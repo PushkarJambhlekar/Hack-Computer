@@ -1,0 +1,16 @@
+@R0
+D=M
+@R1
+D=D-M
+@10
+D;JGT
+@R1
+D=M
+@12
+0;JMP
+@R0
+D=M
+@R2
+M=D
+@14
+0;JMP
